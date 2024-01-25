@@ -8,3 +8,5 @@ Enter commands to perform various operations:
 * W [filename]: Save race data to a file.
 * O [filename]: Load race data from a file.
 * Q: Quit the program.
+
+(Spring 2023)
